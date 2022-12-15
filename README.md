@@ -4,7 +4,7 @@ Marriage, also called matrimony or wedlock, is a culturally and often legally re
 
 Age of marrigae is a important factor for our life. Most jurisdictions set a minimum age for marriage; that is, a person must attain a certain age to be legally allowed to marry. This age may depend on circumstances, for instance exceptions from the general rule may be permitted if the parents of a young person express their consent and/or if a court decides that said marriage is in the best interest of the young person (often this applies in cases where a girl is pregnant). Although most age restrictions are in place in order to prevent children from being forced into marriages, especially to much older partners – marriages which can have negative education and health related consequences, and lead to child sexual abuse and other forms of violence[111] – such child marriages remain common in parts of the world. According to the UN, child marriages are most common in rural sub-Saharan Africa and South Asia. The ten countries with the highest rates of child marriage are: Niger (75%), Chad, Central African Republic, Bangladesh, Guinea, Mozambique, Mali, Burkina Faso, South Sudan, and Malawi.
 
-# Dataset:
+# DATASET:
 
 This dataset captures the minimum age at which boys and girls can legally marry. It also identifies whether exceptions can be made to minimum age laws. The database is coded for girls and for boys separately, so it is possible to analyze gender. Also we have got the data from differennt cities of lot of countries like India, USA, Canada, Malaysia, Netherland, Qatar, Pakistan, etc. Also we have data for different religions like Hindu, Muslim, Christian, Jain, etc. As religion came to picture we have added feature like Caste and mother tounge also.
 
